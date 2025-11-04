@@ -32,5 +32,5 @@ I’m especially interested in improving resolution in delaminated and reinforce
 ---
 
 ### 📬 Contact
-📧 [minhnht@example.com](mailto:nhat.tran.ge@gmail.com)  
+📧 [nhat.tran.ge@gmail.com](mailto:nhat.tran.ge@gmail.com)  
 
